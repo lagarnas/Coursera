@@ -1,4 +1,4 @@
-# First coursera final task
+# Coursera final task
 
 ## Authors
 
